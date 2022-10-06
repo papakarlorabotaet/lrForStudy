@@ -1,7 +1,7 @@
-package lr4;
+package lr1;
 import java.util.Scanner;
 
-public class Fourth {
+public class task11 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

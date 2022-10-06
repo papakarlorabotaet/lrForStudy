@@ -1,8 +1,8 @@
-package lr5;
+package lr1;
 
 import java.util.Scanner;
 
-public class Fifth {
+public class task12 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("For me to found out your age\nEnter year of birth\n\t\t : ");

@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eccd7d5b-5ec6-4f67-a046-5dff76afe13c" name="Changes" comment="lr1 successful">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr2/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Fourth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Fifth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Sixth.java" afterDir="false" />
+    <list default="true" id="eccd7d5b-5ec6-4f67-a046-5dff76afe13c" name="Changes" comment="task1-task20 successful">
+      <change afterPath="$PROJECT_DIR$/src/lr1/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr2/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr4/Fourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr5/Fifth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/task12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr6/Sixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/task13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +67,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sixth">
-    <configuration name="Fifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Fifth" />
+  <component name="RunManager" selected="Application.task19">
+    <configuration name="task16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.task16" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr5.*" />
+          <option name="PATTERN" value="lr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Fourth" />
+    <configuration name="task17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.task17" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr2.Second" />
+    <configuration name="task18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.task18" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr2.*" />
+          <option name="PATTERN" value="lr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sixth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Sixth" />
+    <configuration name="task19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.task19" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.*" />
+          <option name="PATTERN" value="lr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Third" />
+    <configuration name="task20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.task20" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr3.*" />
+          <option name="PATTERN" value="lr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sixth" />
-        <item itemvalue="Application.Fifth" />
-        <item itemvalue="Application.Fourth" />
-        <item itemvalue="Application.Third" />
-        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.task19" />
+        <item itemvalue="Application.task20" />
+        <item itemvalue="Application.task18" />
+        <item itemvalue="Application.task17" />
+        <item itemvalue="Application.task16" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664984210268</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lr1-lr6 successful">
+      <created>1664989027021</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664989027021</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +209,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="lr1 successful" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr1 successful" />
+    <MESSAGE value="lr1-lr6 successful" />
+    <MESSAGE value="task1-task20 successful" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1-task20 successful" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,8 +1,8 @@
-package lr6;
+package lr1;
 
 import java.util.Scanner;
 
-public class Sixth {
+public class task13 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

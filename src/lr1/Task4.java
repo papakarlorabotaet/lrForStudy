@@ -2,7 +2,7 @@ package lr1;
 
 import java.util.Scanner;
 
-public class task4 {
+public class Task4 {
     public static void main(String[] args) {
         Scanner InCMD = new Scanner(System.in);
         System.out.print("Input a number:");

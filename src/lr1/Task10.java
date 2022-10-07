@@ -2,7 +2,7 @@ package lr1;
 
 import java.util.Scanner;
 
-public class task10 {
+public class Task10 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("What day of the week is it today? : ");

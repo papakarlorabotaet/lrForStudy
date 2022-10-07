@@ -1,6 +1,6 @@
 package lr1;
 
-public class task18 {
+public class Task18 {
     static double a =10.0, b=4.0;
     static double c,x,y;
 

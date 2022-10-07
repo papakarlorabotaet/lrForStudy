@@ -1,6 +1,6 @@
 package lr1;
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
         int num; // в этой строке кода объ€вл€етс€
         // переменна€ с именем num

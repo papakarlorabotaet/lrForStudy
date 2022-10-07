@@ -2,7 +2,7 @@ package lr1;
 
 import java.util.Scanner;
 
-public class task19 {
+public class Task19 {
     public static double hyp(double a, double b){
         return  Math.sqrt(a*a + b*b);
     }

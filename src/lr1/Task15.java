@@ -2,9 +2,7 @@ package lr1;
 
 import java.util.Scanner;
 
-import static java.lang.System.in;
-
-public class task15 {
+public class Task15 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("First number: ");

@@ -9,5 +9,6 @@ public class Task5 {
 
         int num = scan.nextInt();
         System.out.println("amount of thousand - " + num/1000 );
+        scan.close();
     }
 }

@@ -14,6 +14,6 @@ public class Task3 {
         } else {
             System.out.println("FALSE\t read the instruction ");
         }
-
+        scan.close();
     }
 }

@@ -14,7 +14,7 @@ public class Task4 {
         } else {
             System.out.println("between 5 to 10 inclusive - false");
         }
-
+        scan.close();
         
     }
 }

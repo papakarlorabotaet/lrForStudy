@@ -17,5 +17,6 @@ public class Task2 {
         }else {
             System.out.println("lost");
         }
+        scan.close();
     }
 }

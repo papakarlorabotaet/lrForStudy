@@ -15,5 +15,6 @@ public class Task1 {
         }else {
         System.out.printf("with remainder, Your num / 3 = %.2f",numDividedThree);
         }
+        scan.close();
     }
 }

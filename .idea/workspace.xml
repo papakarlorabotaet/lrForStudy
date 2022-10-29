@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eccd7d5b-5ec6-4f67-a046-5dff76afe13c" name="Changes" comment="lr 2&#10;scan.close();">
-      <change afterPath="$PROJECT_DIR$/src/timus/Task1001ReverseRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/Task1293Enya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/Task1785DifficultiesOfLocalization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/Task1877BicycleCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/Task2012Grigoriy.java" afterDir="false" />
+    <list default="true" id="eccd7d5b-5ec6-4f67-a046-5dff76afe13c" name="Changes" comment="tumis">
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task3_1_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task3_2_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +61,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task1877BicycleCode">
-    <configuration name="Task1001ReverseRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task1001ReverseRoot" />
+  <component name="RunManager" selected="Application.Task6">
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Task10" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1293Enya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task1293Enya" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Task6" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1785DifficultiesOfLocalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task1785DifficultiesOfLocalization" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Task8" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1877BicycleCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task1877BicycleCode" />
+    <configuration name="lr3.Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Task8" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2012Grigoriy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task2012Grigoriy" />
+    <configuration name="lr3.Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Task9" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lr3.Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Task9" />
+      <module name="Lr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1877BicycleCode" />
-        <item itemvalue="Application.Task2012Grigoriy" />
-        <item itemvalue="Application.Task1785DifficultiesOfLocalization" />
-        <item itemvalue="Application.Task1293Enya" />
-        <item itemvalue="Application.Task1001ReverseRoot" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.lr3.Task9" />
+        <item itemvalue="Application.lr3.Task9" />
+        <item itemvalue="Application.lr3.Task8" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666189436205</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="tumis">
+      <created>1666199178162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666199178162</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +255,18 @@
     <MESSAGE value="task1-task20 successful" />
     <MESSAGE value="lr 2&#10;task1-task5 successful" />
     <MESSAGE value="lr 2&#10;scan.close();" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr 2&#10;scan.close();" />
+    <MESSAGE value="tumis" />
+    <option name="LAST_COMMIT_MESSAGE" value="tumis" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

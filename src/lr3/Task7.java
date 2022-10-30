@@ -3,7 +3,7 @@ package lr3;
 public class Task7 {
     public static void main(String[] args) {
         int size = 10;
-        char firstCharacter= '\u0061';
+        char firstCharacter= '\u0041';
         char[] alphabet = new char[size];
 
         showAlphabet(alphabet, firstCharacter);

@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eccd7d5b-5ec6-4f67-a046-5dff76afe13c" name="Changes" comment="tumis">
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task3_1_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task3_2_switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Task9.java" afterDir="false" />
+    <list default="true" id="eccd7d5b-5ec6-4f67-a046-5dff76afe13c" name="Changes" comment="lr 3 1-10 tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task6">
+  <component name="RunManager" selected="Application.Task7">
     <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Task10" />
       <module name="Lr" />
@@ -88,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Task8" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Task7" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
@@ -101,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr3.Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Task8" />
       <module name="Lr" />
       <extension name="coverage">
@@ -142,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task7" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.lr3.Task9" />
         <item itemvalue="Application.lr3.Task9" />
-        <item itemvalue="Application.lr3.Task8" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666199178162</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lr 3 1-10 tasks">
+      <created>1667066898757</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667066898757</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +252,8 @@
     <MESSAGE value="lr 2&#10;task1-task5 successful" />
     <MESSAGE value="lr 2&#10;scan.close();" />
     <MESSAGE value="tumis" />
-    <option name="LAST_COMMIT_MESSAGE" value="tumis" />
+    <MESSAGE value="lr 3 1-10 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr 3 1-10 tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

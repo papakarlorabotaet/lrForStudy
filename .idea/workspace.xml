@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eccd7d5b-5ec6-4f67-a046-5dff76afe13c" name="Changes" comment="lr 5 1-6 tasks">
-      <change afterPath="$PROJECT_DIR$/src/lr5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +54,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task2$ClassOfSymbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Task2$ClassOfSymbol" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr6.Task1" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr5.*" />
+          <option name="PATTERN" value="lr6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr6.Task2" />
+      <module name="Lr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,24 +82,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Task3" />
+      <option name="MAIN_CLASS_NAME" value="lr6.Task3" />
       <module name="Lr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Task4" />
-      <module name="Lr" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr5.*" />
+          <option name="PATTERN" value="lr6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2$ClassOfSymbol" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668012292439</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lr 5 1-6 tasks">
+      <created>1668857427225</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668857427225</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +280,11 @@
           <url>file://$PROJECT_DIR$/src/lr5/Task6.java</url>
           <line>4</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr6/Task3.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -3,7 +3,7 @@ package timus;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class Task1293Enya {
+public class Task1000 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -12,8 +12,7 @@ public class Task1293Enya {
         // decision
         int a = scan.nextInt();
         int b = scan.nextInt();
-        int c = scan.nextInt();
-        int res = a*b*c*2;
+        int res = a+b;
         // decision
 
         out.println(res);

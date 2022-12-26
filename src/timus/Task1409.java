@@ -3,20 +3,23 @@ package timus;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class Task1293Enya {
+public class Task1409 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
         // decision
-        int a = scan.nextInt();
-        int b = scan.nextInt();
-        int c = scan.nextInt();
-        int res = a*b*c*2;
+
+
+        Scanner scanner = new Scanner(System.in);
+        int H, L;
+        H = scanner.nextInt();
+        L = scanner.nextInt();
+
         // decision
 
-        out.println(res);
+        out.println((L - 1) + " " + (H - 1));
         out.flush();
     }
 }

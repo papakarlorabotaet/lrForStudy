@@ -1,3 +1,4 @@
+package lr13;
 
 public class example3 {
     private static final Object lock = new Object();

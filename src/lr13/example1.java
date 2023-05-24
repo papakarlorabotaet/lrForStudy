@@ -1,3 +1,5 @@
+package lr13;
+
 import java.time.LocalTime;
 public class example1 {
     public static void main(String[] args) throws InterruptedException {

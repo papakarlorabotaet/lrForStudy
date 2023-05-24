@@ -32,7 +32,7 @@ public class Excel {
         dataRow2.createCell(2).setCellValue(25000.0);
 
         // Записываем книгу Excel в файл
-        String filePath = "C:\\Users\\Даниил\\Desktop\\УРФУ\\Программирование\\Программы\\LR10\\src\\LR10\\EXCEL\\example.xlsx";
+        String filePath = "D:\\urfu\\программирование лабы\\EXCEL\\example.xlsx";
         try {
             FileOutputStream outputStream = new FileOutputStream(filePath);
             workbook.write(outputStream);

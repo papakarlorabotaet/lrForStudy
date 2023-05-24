@@ -1,25 +1,20 @@
 package lr11.examples2;
-import dinamic_structure_data.task_6.Node;
+
 public class reData1 {
     public static void main(String[] args) {
-        // Добавление элиментов с перемещением головы (наращивание головы)
-        Node head = null;
+        example03_6.Node head = null;
         for (int i = 9; i >= 0; i--){
-            head = new Node(i,head);
+            head = new example03_6.Node(i,head);
         }
 
-        Node ref;
+        example03_6.Node ref;
 
-        // создаем вспомогательную переменную
         ref = head;
-// перемещаемся на предпоследний элемент
         while (ref.next.next != null) {
             ref = ref.next;
         }
-// полю next предпоследнего элемента присваиваем null
         ref.next=null;
-        //Вывод значений на экран
-        Node ref2 = head;
+        example03_6.Node ref2 = head;
         while (ref2 != null){
             System.out.print(" " + ref2.value);
             ref2 = ref2.next;

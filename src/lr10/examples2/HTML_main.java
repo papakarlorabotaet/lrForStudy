@@ -71,7 +71,7 @@ public class HTML_main {
 
     private static void setJson(List<Node> nodes, int i) throws Exception {
         JSONParser parser = new JSONParser();
-        Object obj = parser.parse(new FileReader("C:\\Users\\Даниил\\Desktop\\УРФУ\\Программирование\\Программы\\LR10\\src\\LR10\\HTML\\example.json"));
+        Object obj = parser.parse(new FileReader("D:\\urfu\\программирование лабы\\HTML\\example.json"));
         JSONObject jsonObject = (JSONObject) obj;
 
         JSONObject library = new JSONObject();
@@ -84,7 +84,7 @@ public class HTML_main {
 
         library.put("news", news);
 
-        FileWriter file = new FileWriter("C:\\Users\\Даниил\\Desktop\\УРФУ\\Программирование\\Программы\\LR10\\src\\LR10\\HTML\\example.json");
+        FileWriter file = new FileWriter("D:\\urfu\\программирование лабы\\HTML\\example.json");
         file.write(library.toString());
         file.flush();
         file.close();

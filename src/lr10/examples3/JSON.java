@@ -24,7 +24,7 @@ public class JSON {
 
         library.put("books", books);
 
-        try (FileWriter file = new FileWriter("C:\\Users\\Даниил\\Desktop\\УРФУ\\Программирование\\Программы\\LR10\\src\\LR10\\JSON/example.json"))
+        try (FileWriter file = new FileWriter("D:\\urfu\\программирование лабы\\JSON\\example.json"))
         {
             file.write(library.toString());
             System.out.println("Json успешно записан");

@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 public class test9 {
     String string = "Work! hard. Dream big — Работай терпеливо. Мечтай по-большому";
     List<String> strings = List.of(string.split(" "));
-        System.out.println("\n" + "Cтрока после сплита : " + "\n");
+        System.out.print
         for (String e: strings){
         System.out.println(e);
     }

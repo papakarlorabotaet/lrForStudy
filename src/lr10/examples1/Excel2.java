@@ -1,4 +1,5 @@
 package lr10.examples1;
+
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -12,7 +13,7 @@ public class Excel2 {
     public static void main(String[] args) {
         try{
             // открываем файл Excel для чтения
-            String filePath = "C:\\Users\\Даниил\\Desktop\\УРФУ\\Программирование\\Программы\\LR10\\src\\LR10\\EXCEL\\example.xlsx";
+            String filePath = "D:\\urfu\\программирование лабы\\EXCEL\\example.xlsx";
             FileInputStream inputStream = new FileInputStream(filePath);
 
             // Создаем экземпляр книги из файла

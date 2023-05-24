@@ -7,7 +7,7 @@ public class JSON2 {
     public static void main(String[] args) {
         try {
             JSONParser parser = new JSONParser();
-            Object obj = parser.parse(new FileReader("C:\\Users\\Даниил\\Desktop\\УРФУ\\Программирование\\Программы\\LR10\\src\\LR10\\JSON\\example.json"));
+            Object obj = parser.parse(new FileReader("D:\\urfu\\программирование лабы\\JSON\\example.json"));
             JSONObject jsonObject = (JSONObject) obj;
             System.out.println("Корневой элимент: " +jsonObject.keySet().iterator().next());
             JSONArray jsonArray = (JSONArray) jsonObject.get("books");
